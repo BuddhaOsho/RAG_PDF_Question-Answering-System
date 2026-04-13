@@ -1,0 +1,6 @@
+├── index_documents.py        # PDF loading, chunking & vector indexing
+├── query_documents.py        # Query pipeline with retrieval + LLM
+├── docker-compose.yml        # Qdrant vector database service
+├── .env                      # API keys & environment variables
+├── requirements.txt
+└── README.md
